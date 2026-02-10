@@ -5,7 +5,7 @@ This project predicts house prices using a Machine Learning model trained on hou
 The trained model is deployed as an interactive web application using Streamlit.
 
 ##  Live Demo
-(Will be added after deployment)
+https://vipk34-house-price.streamlit.app/
 
 ##  Dataset
 - Boston Housing Dataset
@@ -26,5 +26,6 @@ Crime rate, residential land zone, industrial area proportion, number of rooms, 
 - Pandas, NumPy
 - Scikit-learn
 - Streamlit
+
 
 
